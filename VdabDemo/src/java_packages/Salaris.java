@@ -1,3 +1,5 @@
+package java_packages;
+
 public class Salaris {
     public static void main(String[] args) {
 
