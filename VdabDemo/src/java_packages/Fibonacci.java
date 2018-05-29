@@ -14,9 +14,13 @@ public class Fibonacci {
         for (int i = 1; i <= n; i++)
             {
                 int som = a + b;
+
                 System.out.print(som + " ");
                 a = b;
                 b = som;
+
         }
+
+        System.out.println();
     }
 }
