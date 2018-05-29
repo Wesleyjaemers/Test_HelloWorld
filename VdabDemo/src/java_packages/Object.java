@@ -20,7 +20,22 @@ public class Object {
         int i = naam.indexOf(' ');
          String firstName = naam.substring(0, i);
 
-         //
+        //Loops
+        /* int i = 1;
 
+        int totaal = 0;
+        while (i <= 100){
+            totaal = totaal + i;
+            i++;
+
+        }
+        System.out.println("De som is: "+totaal); */
+
+        int totaal = 0;
+
+        for (int k = 1; k<= 100; k++){
+            totaal += k;
+        }
+        System.out.println("De som is: "+totaal);
     }
 }
