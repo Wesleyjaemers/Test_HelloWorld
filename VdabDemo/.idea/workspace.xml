@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/GuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Pi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Random.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Time.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,65 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberPyramid.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/NumberPyramid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fibonacci.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Fibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Faculteit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Faculteit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prime.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Prime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GuessingGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GuessingGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/GuessingGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="126" selection-start-line="14" selection-start-column="126" selection-end-line="14" selection-end-column="126" />
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="16" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Time.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Time.java">
+      <file leaf-file-name="Random.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Random.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="180">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -133,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/java_packages/Pi.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Time.java" />
         <option value="$PROJECT_DIR$/src/java_packages/GuessingGame.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Random.java" />
       </list>
     </option>
   </component>
@@ -215,20 +171,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GuessingGame">
+  <component name="RunManager" selected="Application.Random">
     <configuration name="Faculteit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_packages.Faculteit" />
-      <module name="VdabDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_packages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Fibonacci" />
       <module name="VdabDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -262,6 +207,17 @@
     </configuration>
     <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_packages.Prime" />
+      <module name="VdabDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_packages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_packages.Random" />
       <module name="VdabDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -313,19 +269,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.Prime" />
       <item itemvalue="Application.Faculteit" />
       <item itemvalue="Application.Pi" />
       <item itemvalue="Application.GuessingGame" />
+      <item itemvalue="Application.Random" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Random" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.Pi" />
         <item itemvalue="Application.Prime" />
         <item itemvalue="Application.Faculteit" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527753345101</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Pi, GuessingGame">
+      <created>1527764501433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1527764501433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -363,7 +326,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50039065" side_tool="true" weight="0.39984164" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293745" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32858273" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32858273" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -374,7 +337,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49960938" visible="true" weight="0.39984164" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960938" weight="0.39984164" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -407,25 +370,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update Prime" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Prime" />
+    <MESSAGE value="Update Pi, GuessingGame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Pi, GuessingGame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/java_packages/GuessingGame.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java_packages/GuessingGame.java</url>
           <line>14</line>
           <properties />
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -528,13 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="81" column="19" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="153" column="20" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -674,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Prime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Time.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -695,10 +639,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/GuessingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="126" selection-start-line="14" selection-start-column="126" selection-end-line="14" selection-end-column="126" />
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>

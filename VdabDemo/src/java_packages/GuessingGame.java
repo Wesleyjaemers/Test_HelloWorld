@@ -16,7 +16,7 @@ public class GuessingGame {
         System.out.println("Geef Max op: ");
         int max = input.nextInt();
 
-        random =(int)(min+Math.random()*(max-min));
+        random =(int)(min+Math.random()*((max+1)-min));
 
         for(int i=1;i<=3;i++){
             System.out.println("geef getal: ");
