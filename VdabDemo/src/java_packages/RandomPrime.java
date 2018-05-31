@@ -37,12 +37,12 @@ public class RandomPrime {
         int tussenRes = berekenRandom(min, max);
         boolean res = isPrime(tussenRes);
 
-        System.out.println("Random getal = "+tussenRes);
+        System.out.println("Random getal = "+ tussenRes);
         if (res==false)
-            System.out.println("getal is geen priem");
+            System.out.println("getal "+tussenRes+" is geen priem");
 
         else
-            System.out.println("getal is een priem");
+            System.out.println("getal "+tussenRes+" is een priem");
 
     }
 }

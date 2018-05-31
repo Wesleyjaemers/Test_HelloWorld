@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/RandomPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VdabDemo/java_packages/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VdabDemo/java_packages/Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/RandomPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/RandomPrime.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +45,8 @@
       <file leaf-file-name="RandomPrime.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java_packages/RandomPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="660">
+              <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -336,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527766927279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New RandomPrime">
+      <created>1527769415134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527769415134</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -397,7 +402,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update Prime" />
     <MESSAGE value="Update Pi, GuessingGame" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Pi, GuessingGame" />
+    <MESSAGE value="New RandomPrime" />
+    <option name="LAST_COMMIT_MESSAGE" value="New RandomPrime" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -703,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/RandomPrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="660">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
         </state>
       </provider>
     </entry>
