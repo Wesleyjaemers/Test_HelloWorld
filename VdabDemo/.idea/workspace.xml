@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/RandomPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/GuessingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VdabDemo/java_packages/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VdabDemo/java_packages/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Prime.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +26,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Random.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Random.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Random.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Prime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Prime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="53" selection-start-line="24" selection-start-column="8" selection-end-line="28" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomPrime.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/RandomPrime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -84,11 +102,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/java_packages/Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Faculteit.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Prime.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Pi.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Time.java" />
         <option value="$PROJECT_DIR$/src/java_packages/GuessingGame.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Random.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Prime.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/RandomPrime.java" />
       </list>
     </option>
   </component>
@@ -171,18 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Random">
-    <configuration name="Faculteit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Faculteit" />
-      <module name="VdabDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_packages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.RandomPrime">
     <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_packages.GuessingGame" />
       <module name="VdabDemo" />
@@ -218,6 +226,17 @@
     </configuration>
     <configuration name="Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_packages.Random" />
+      <module name="VdabDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_packages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RandomPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_packages.RandomPrime" />
       <module name="VdabDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -270,18 +289,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Prime" />
-      <item itemvalue="Application.Faculteit" />
       <item itemvalue="Application.Pi" />
       <item itemvalue="Application.GuessingGame" />
       <item itemvalue="Application.Random" />
+      <item itemvalue="Application.RandomPrime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomPrime" />
         <item itemvalue="Application.Random" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.Pi" />
         <item itemvalue="Application.Prime" />
-        <item itemvalue="Application.Faculteit" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527764501433</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update Pi, GuessingGame">
+      <created>1527766927279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527766927279</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -469,6 +495,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31995">
           <caret line="2210" column="15" selection-start-line="2210" selection-start-column="15" selection-end-line="2210" selection-end-column="15" />
+          <folding>
+            <element signature="e#84045#84046#0" expanded="true" />
+            <element signature="e#84089#84090#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -493,6 +523,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1186">
           <caret line="2210" column="15" selection-start-line="2210" selection-start-column="15" selection-end-line="2210" selection-end-column="15" />
+          <folding>
+            <element signature="e#84045#84046#0" expanded="true" />
+            <element signature="e#84089#84090#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -639,13 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Prime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/GuessingGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -660,10 +687,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="53" selection-start-line="24" selection-start-column="8" selection-end-line="28" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="300">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/RandomPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="20" />
         </state>
       </provider>
     </entry>
