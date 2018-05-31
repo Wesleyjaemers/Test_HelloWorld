@@ -4,26 +4,6 @@ import java.util.Scanner;
 
 public class RandomPrime {
 
-    public static int berekenRandom(int min, int max){
-        int rand;
-        rand =(int)(min+Math.random()*((max+1)-min));
-        return rand;
-    }
-
-    public static boolean isPrime(int a) {
-        int rest;
-        boolean priem = true;
-
-        for (int i = 2; i < a; i++) {
-
-            rest = a % i;
-            if (rest == 0) {
-                priem = false;
-            }
-        }
-        return priem;
-    }
-
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -34,8 +14,8 @@ public class RandomPrime {
         System.out.println("Geef Max op: ");
         int max = input.nextInt();
 
-        int tussenRes = berekenRandom(min, max);
-        boolean res = isPrime(tussenRes);
+        int tussenRes = Randomizer.berekenRandom(min, max);
+        boolean res = ComparePrime.isPrime(tussenRes);
 
         System.out.println("Random getal = "+ tussenRes);
         if (res==false)
