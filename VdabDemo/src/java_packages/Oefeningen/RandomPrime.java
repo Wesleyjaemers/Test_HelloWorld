@@ -1,4 +1,4 @@
-package java_packages;
+package java_packages.Oefeningen;
 
 import java.util.Scanner;
 

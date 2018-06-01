@@ -1,4 +1,4 @@
-package java_packages;
+package java_packages.Theorie;
 
 public class Pi {
     public static void main(String[] args) {
