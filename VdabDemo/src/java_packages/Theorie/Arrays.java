@@ -27,9 +27,17 @@ public class Arrays {
         double x = 5;
         double y = 0;
         double res;
-        res = x/y;
+        res = x / y;
         System.out.println(res); // dit geeft resultaat INFINITY
-        System.out.println(res/res); // dit geeft NaN (Not a Number)
+        System.out.println(res / res); // dit geeft NaN (Not a Number)*/
+
+        int[][] getallen3 = {  // 2-dimensionale array, een array zijn de parameters van de eerste array
+                {1, 2, 3},
+                {4, 5, 6},
+                {7, 8, 9}
+                            };
+        int getal3 = getallen3[2][0];
+        System.out.println(getal3);
 
     }
 }
