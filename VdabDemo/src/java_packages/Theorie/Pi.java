@@ -2,8 +2,15 @@ package java_packages.Theorie;
 
 public class Pi {
     public static void main(String[] args) {
+        int a = 5, i;
 
-        int limit = 1000000000;
+        i = a++ + ++a + ++a;
+        a = ++a + ++a + a++;
+
+        System.out.println(i);
+        System.out.println(a);
+
+        /*int limit = 1000000000;
         int teken = 1;
         double som = 0;
 
@@ -15,6 +22,6 @@ public class Pi {
 
         }
         double pi = 4*som;
-        System.out.println("Resultaat Pi= "+ pi);
+        System.out.println("Resultaat Pi= "+ pi);*/
     }
 }
