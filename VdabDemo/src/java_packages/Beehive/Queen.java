@@ -14,7 +14,7 @@ public class Queen {
     }
 
     public void danceOff(Drone d){
-        while(eggs==0) {
+        while(eggs==0 && !d.isDead()) {
             if (mood == 100) {
                 eggs = d.semencount - ((int) (Math.random() * 100));
                 System.out.println("Layed eggs: " + eggs);
@@ -28,7 +28,7 @@ public class Queen {
                     System.out.println("Denied, got smacked. " + d.name + " has " + d.hitpoints + "left");
                 }
             }
-            if (d.isDead() == true) {
+            if (d.isDead()) {
                 System.out.println("he dead");
             }
         }
