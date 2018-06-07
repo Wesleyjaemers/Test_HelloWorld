@@ -1,6 +1,6 @@
 package java_packages.Beehive;
 
-public class Soldier {
+public class Soldier extends Bee {
 
     int hitpoints =100, armour=2, strength=10;
     String weapon = "angel";

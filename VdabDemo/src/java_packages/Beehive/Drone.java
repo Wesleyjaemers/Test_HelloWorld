@@ -1,20 +1,19 @@
 package java_packages.Beehive;
 
-public class Drone {
-    String name, type;
+public class Drone extends Bee {
+    String type;
     int charisma, semencount, hitpoints;
 
-    public Drone (String name, int charisma, int semencount, int hitpoints, String type){
-        this.name = name;
-        this.charisma = charisma;
-        this.semencount = semencount;
-        this.hitpoints = hitpoints;
-        this.type = type;
+    public Drone (String name, int c, int s, int h, String t){
+        super(name);
+        //super(); roept de default constructor van Bee aan
+        this.charisma = c;
+        this.semencount = s;
+        this.hitpoints = h;
+        this.type = t;
     }
     public boolean isDead() {
         return this.hitpoints <= 0;
     }
-
-
 
 }
