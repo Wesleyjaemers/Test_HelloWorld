@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Flower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/MainHive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/MainHive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Worker.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="260" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
@@ -391,14 +394,7 @@
       <option name="project" value="LOCAL" />
       <updated>1528119451165</updated>
     </task>
-    <task id="LOCAL-00013" summary="Constructors + Objecten">
-      <created>1528120707498</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1528120707498</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -424,7 +420,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39956802" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
