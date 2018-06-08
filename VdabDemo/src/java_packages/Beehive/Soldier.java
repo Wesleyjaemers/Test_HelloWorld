@@ -26,5 +26,7 @@ public class Soldier extends Bee {
         return hitpoints <=0;
     }
 
-
+    public void contribute(){   //Hier definieren we wat de class effectief doet
+        System.out.println("Soldier contibutes to the fight");
+    }
 }

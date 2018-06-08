@@ -1,8 +1,8 @@
 package java_packages.Beehive;
 
-public class Bee {
+public abstract class Bee extends Insect { // abstract wilt zeggen dat er geen object van Bee kan aangemaakt worden, subklassen wel.
 
-    protected String name;
+    protected String name;  //Beschikbaar binnen de package maar niet erbuiten.
     //private String name;
 
     public Bee(){
@@ -24,4 +24,7 @@ public class Bee {
     public void fly(){
         System.out.println("Bee "+name+" is flying awaaaaaay");
     }
+
+    public abstract void contribute(); // abstracte methode, heeft geen parameters want het is niet zeker wat deze methode moet doen.
+                                        //Dit wordt gedefinïeerd in de subclass.
 }
