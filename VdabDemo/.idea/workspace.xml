@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Animals/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Animals/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Animals/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Insect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/Interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Bee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -563,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528439594036</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update Abstract classes + interfaces">
+      <created>1528465121963</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528465121963</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -615,7 +610,8 @@
     <MESSAGE value="test review" />
     <MESSAGE value="Properties and Inheritance" />
     <MESSAGE value="Update Print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Print" />
+    <MESSAGE value="Update Abstract classes + interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Abstract classes + interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
