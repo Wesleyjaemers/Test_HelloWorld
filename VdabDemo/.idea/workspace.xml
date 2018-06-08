@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="test review">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Bee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java" afterDir="false" />
+    <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Drone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Queen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Worker.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,9 +28,9 @@
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Drone.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               <folding>
-                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -56,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/MainHive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -64,17 +57,17 @@
       <file leaf-file-name="Queen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="285">
+              <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FertilizeMain.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FertilizeMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -82,8 +75,8 @@
       <file leaf-file-name="Print.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Print.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="315">
+              <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -94,26 +87,18 @@
             <state relative-caret-position="60">
               <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
               <folding>
-                <element signature="e#94#95#0" expanded="true" />
                 <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeeMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BeeMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -165,12 +150,12 @@
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/NurseMain.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Worker.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Print.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Queen.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Bee.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Drone.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Print.java" />
       </list>
     </option>
   </component>
@@ -188,8 +173,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,7 +244,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -490,59 +475,47 @@
       <option name="project" value="LOCAL" />
       <updated>1528363224152</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Properties and Inheritance">
+      <created>1528380230303</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1528380230303</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="260" y="23" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3278098" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50039065" side_tool="true" weight="0.32925072" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960938" visible="true" weight="0.32925072" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13671875" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39956802" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" x="0" y="0" width="590" height="1137" id="Documentation" order="3" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3278098" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -559,7 +532,8 @@
     <MESSAGE value="Constructors + Objecten" />
     <MESSAGE value="Merge branch 'master' of https://github.com/Wesleyjaemers/Test_HelloWorld&#10;&#10;# Conflicts:&#10;#&#9;VdabDemo/.idea/workspace.xml" />
     <MESSAGE value="test review" />
-    <option name="LAST_COMMIT_MESSAGE" value="test review" />
+    <MESSAGE value="Properties and Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Properties and Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -818,27 +792,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Larva.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/NurseMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Larva.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/NurseMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen2.java" />
     <entry file="file://$PROJECT_DIR$/src/java_packages/Oefeningen/ComparePrime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -853,45 +809,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Print.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Drone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Bee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding>
-            <element signature="e#94#95#0" expanded="true" />
             <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -903,31 +827,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/MainHive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Drone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="60" lean-forward="true" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

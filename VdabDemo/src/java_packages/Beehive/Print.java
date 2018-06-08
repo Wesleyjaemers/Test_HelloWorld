@@ -19,7 +19,7 @@ public class Print {
 
         Queen latifa = new Queen("Latifa", 50, 20, "Diva");
         Queen cruella = new Queen("Cruella", 30, 10, "Furless");
-        Queen shaniqua = new Queen("Shaniqua", 65, 35, "Don't be playin with me!");
+        Queen shaniqua = new Queen("Shaniqua", 65, 40, "Don't be playin with me!");
 
         Queen[] queenList = new Queen[3];
         queenList[0] = latifa;
