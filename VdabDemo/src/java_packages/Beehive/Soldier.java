@@ -1,6 +1,6 @@
 package java_packages.Beehive;
 
-public class Soldier {
+public class Soldier extends Bee {
 
     int hitpoints =100, armour=2, strength=10;
     String weapon = "angel";
@@ -26,5 +26,7 @@ public class Soldier {
         return hitpoints <=0;
     }
 
-
+    public void contribute(){   //Hier definieren we wat de class effectief doet
+        System.out.println("Soldier contibutes to the fight");
+    }
 }

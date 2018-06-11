@@ -27,19 +27,17 @@ public class FertilizeMain {
         queenList [2] = Shaniqua;
 
         System.out.println("The brave ones: ");
-        System.out.println("---------------");
         for (Drone d : droneList){
             System.out.println(d.name+" ("+d.type+')');
         }
         System.out.println("Choose your drone (1-3)");
         int indexDrone = inputDrone.nextInt()-1;
 
-        System.out.println("The Queens:");
-        System.out.println("-----------");
+        System.out.println("The Queens");
         for (Queen q : queenList){
             System.out.println(q.name+" ("+q.type+")");
         }
-        System.out.println("Choose Queen to impress (1-3)");
+        System.out.println("Choose Queen to impress (1-2)");
         int indexQueen = inputQueen.nextInt()-1;
 
         System.out.println("Let the dancing begin!");
