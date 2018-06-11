@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Drone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/Queen.java" afterDir="false" />
     </list>
@@ -29,12 +28,8 @@
       <file leaf-file-name="Drone.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Drone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-              <folding>
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -42,8 +37,8 @@
       <file leaf-file-name="Queen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+            <state relative-caret-position="255">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -51,8 +46,8 @@
       <file leaf-file-name="FertilizeMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+            <state relative-caret-position="408">
+              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -78,8 +73,8 @@
         <option value="$PROJECT_DIR$/src/java_packages/Faculteit.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Flower.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Drone.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Queen.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Queen.java" />
       </list>
     </option>
   </component>
@@ -97,6 +92,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,13 +138,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vdab-lessen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -299,12 +294,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528302175884</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update FertilizeMain: Array print + added Type to object parameter">
+      <created>1528306415605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528306415605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -314,9 +315,9 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299435" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -340,7 +341,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Queen + Drone + FertilizeMain" />
     <MESSAGE value="update FertilizeMain: added input Scanners + Object Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="update FertilizeMain: added input Scanners + Object Arrays" />
+    <MESSAGE value="update FertilizeMain: Array print + added Type to object parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="update FertilizeMain: Array print + added Type to object parameter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -492,28 +494,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Drone.java">
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen.java">
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Drone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+        <state relative-caret-position="408">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
