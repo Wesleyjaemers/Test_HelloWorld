@@ -1,6 +1,6 @@
 package java_packages.Animals;
 
-public class Cat extends Animal {
+public class Cat extends Mammal {
 
     private int lives = 9;
 
@@ -14,7 +14,7 @@ public class Cat extends Animal {
 
     @Override
     public void sound() {
-        System.out.println("Miauw");
+        System.out.println(this.name+" says miauw");
     }
 
     public int getLives() {

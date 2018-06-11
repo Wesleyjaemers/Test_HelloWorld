@@ -19,6 +19,6 @@ public class Lion extends Cat {
 
     @Override
     public void sound() {
-        System.out.println("Roawr");
+        System.out.println(this.name+" says roawr");
     }
 }

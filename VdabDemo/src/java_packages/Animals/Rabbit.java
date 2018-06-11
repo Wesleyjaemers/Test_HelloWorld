@@ -1,6 +1,6 @@
 package java_packages.Animals;
 
-public class Rabbit extends Animal {
+public class Rabbit extends Mammal {
 
     private boolean fluffy;
 
@@ -13,7 +13,5 @@ public class Rabbit extends Animal {
         return fluffy;
     }
 
-    public void sound(){
-        System.out.println("miep");
-    }
+
 }
