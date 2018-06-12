@@ -47,6 +47,23 @@ public class Queen extends Bee {
     }
 
 
+    @Override
+    public void contribute() {
 
+    }
 
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void crawl() {
+
+    }
+
+    @Override
+    public void pee() {
+
+    }
 }

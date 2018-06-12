@@ -16,4 +16,23 @@ public class Drone extends Bee {
         return this.hitpoints <= 0;
     }
 
+    @Override
+    public void contribute() {
+
+    }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void crawl() {
+
+    }
+
+    @Override
+    public void pee() {
+
+    }
 }

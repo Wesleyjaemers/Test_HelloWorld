@@ -1,10 +1,12 @@
 package java_packages.Animals;
 
-public class Dog extends Animal {
+import java_packages.Theorie.Random;
+
+public class Dog extends Mammal {
 
     private String color;
 
-    String [] trickList = {"Sit", "Lay down", "Roll", "Bark"};
+    String [] trickList = {"sits", "lays down", "rolls", "fetches ball"};
 
 
     public Dog (String name, String color){
@@ -14,11 +16,15 @@ public class Dog extends Animal {
 
     @Override
     public void sound() {
-        System.out.println("Woef");
+        System.out.println(this.name+ " says Woef");
     }
 
     public void bite(){
         System.out.println("Hang");
+    }
+
+    public void doTrick (){
+        System.out.println("Doggo trickmeister  "+trickList[Random.berekenRandomGetal(0,3)]);
     }
 
 

@@ -1,6 +1,6 @@
 package java_packages.Beehive;
 
-public abstract class Bee extends Insect { // abstract wilt zeggen dat er geen object van Bee kan aangemaakt worden, subklassen wel.
+public abstract class Bee implements Insect { // abstract wilt zeggen dat er geen object van Bee kan aangemaakt worden, subklassen wel.
 
     protected String name;  //Beschikbaar binnen de package maar niet erbuiten.
     //private String name;

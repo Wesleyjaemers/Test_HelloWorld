@@ -24,10 +24,30 @@ public class Worker extends Bee {
         capacity = 100;
     }
 
+    @Override
+    public void contribute() {
+
+    }
+
     public Worker (String name, int initialCapacity, int initialLoad){
         super(name); //Constructor van de superklasse aanspreken "Bee" voor de naam in te geven
         this.capacity = initialCapacity;
         this.load = initialLoad;
+    }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void crawl() {
+
+    }
+
+    @Override
+    public void pee() {
+
     }
 
    /* public Worker(int load){  //constructor met 1 parameter

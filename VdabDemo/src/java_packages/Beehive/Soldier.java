@@ -29,4 +29,19 @@ public class Soldier extends Bee {
     public void contribute(){   //Hier definieren we wat de class effectief doet
         System.out.println("Soldier contibutes to the fight");
     }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void crawl() {
+
+    }
+
+    @Override
+    public void pee() {
+
+    }
 }

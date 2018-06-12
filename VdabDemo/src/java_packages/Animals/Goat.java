@@ -1,19 +1,19 @@
 package java_packages.Animals;
 
-public class Goat extends Animal{
+public class Goat extends Mammal {
 
-    private boolean melk;
+    private boolean milk;
     private String color;
 
 
-    public Goat(String name, boolean melk, String color) {
+    public Goat(String name, boolean milk, String color) {
         super(name);
-        this.melk = melk;
+        this.milk = milk;
         this.color=color;
     }
 
     @Override
     public void sound() {
-        System.out.println("meeeeh");
+        System.out.println(this.name+" says meeeeh");
     }
 }
