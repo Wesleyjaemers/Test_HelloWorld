@@ -10,7 +10,7 @@ public class Truck extends Transport implements Refuelable, Washable {
     }
 
     @Override
-    public void Wash() {
+    public void wash() {
 
     }
 

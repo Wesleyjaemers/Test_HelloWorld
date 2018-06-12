@@ -4,7 +4,7 @@ public class Bicycle extends Transport implements Washable {
 
 
     @Override
-    public void Wash() {
+    public void wash() {
 
     }
 

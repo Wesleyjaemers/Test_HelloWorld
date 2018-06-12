@@ -1,6 +1,7 @@
 package java_packages.Theorie.InterfaceOef;
 
 public class AppMain {
+
     public static void main(String[] args) {
 
         GasStation station = new GasStation();
@@ -15,8 +16,13 @@ public class AppMain {
 
         Bicycle b = new Bicycle("Tandem","Handibike");
 
-        b.Wash();
-        c.wash();
-        a.wash();
+        w.service(c);
+        w.service(b);
+
+        Transport t = new Bicycle("Tandem","Handibike");
+
+        if (t instanceof Airplane){
+            System.out.println("tis een vliegtuig!");
+        }else System.out.println("niks");
     }
 }

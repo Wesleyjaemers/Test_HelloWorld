@@ -19,9 +19,7 @@ public abstract class Mammal implements Animal {
     }
 
 
-    public void doTrick (){
-        System.out.println("Hop");
-    }
+
 
     @Override
     public void eat() {

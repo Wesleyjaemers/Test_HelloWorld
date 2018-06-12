@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Cabrio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Refuelable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Washable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Animals/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Animals/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#307#308#0" expanded="true" />
                 <element signature="e#341#342#0" expanded="true" />
@@ -42,8 +39,8 @@
       <file leaf-file-name="Truck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="156">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
                 <element signature="e#196#197#0" expanded="true" />
                 <element signature="e#224#225#0" expanded="true" />
@@ -59,9 +56,10 @@
       <file leaf-file-name="Snowmobile.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            <state relative-caret-position="300">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding>
+                <element signature="e#172#173#0" expanded="true" />
                 <element signature="e#206#207#0" expanded="true" />
                 <element signature="e#173#174#0" expanded="true" />
                 <element signature="e#201#202#0" expanded="true" />
@@ -73,13 +71,15 @@
       <file leaf-file-name="Airplane.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="544">
+              <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
               <folding>
                 <element signature="e#427#428#0" expanded="true" />
                 <element signature="e#460#461#0" expanded="true" />
                 <element signature="e#512#513#0" expanded="true" />
                 <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,35 +98,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Generator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Generator.java">
+      <file leaf-file-name="ZooMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="544">
+              <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
               <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WashingStation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java">
+      <file leaf-file-name="Bicycle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Washable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Washable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="90">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -134,17 +122,30 @@
       <file leaf-file-name="AppMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="345">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GasStation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/GasStation.java">
+      <file leaf-file-name="Mammal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Mammal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="285">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="23" />
+              <folding>
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -196,8 +197,6 @@
         <option value="$PROJECT_DIR$/src/java_packages/Animals/Rabbit.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Animals/Goat.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Animals/Dog.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Animals/Mammal.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Animals/Lion.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Shapes/ShapeMain.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Shapes/Shape.java" />
@@ -207,25 +206,27 @@
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/Interface/Transport.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Gasstation.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Transport.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Refuelable.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Cabrio.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Donkey.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/GasStation.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Generator.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Washable.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Animals/Mammal.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -327,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppMain">
+  <component name="RunManager" selected="Application.ZooMain">
     <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.InterfaceOef.AppMain" />
       <module name="VdabDemo" />
@@ -433,10 +434,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZooMain" />
         <item itemvalue="Application.AppMain" />
         <item itemvalue="Application.WashingStation" />
         <item itemvalue="Application.ShapeMain" />
-        <item itemvalue="Application.ZooMain" />
         <item itemvalue="Application.BeeMain" />
       </list>
     </recent_temporary>
@@ -571,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528724211333</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Oef Interface Washing/Gas station">
+      <created>1528795710991</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1528795710991</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -587,11 +595,11 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007143" side_tool="true" weight="0.32937366" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928573" visible="true" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928573" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
@@ -644,7 +652,8 @@
     <MESSAGE value="Properties and Inheritance" />
     <MESSAGE value="Update Print" />
     <MESSAGE value="Update Abstract classes + interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Abstract classes + interfaces" />
+    <MESSAGE value="Oef Interface Washing/Gas station" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oef Interface Washing/Gas station" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -807,21 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Mammal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Rabbit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -844,13 +838,6 @@
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#343#344#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -911,16 +898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="36" column="63" lean-forward="true" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Shapes/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -959,17 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Refuelable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -992,72 +958,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-          <folding>
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Donkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/GasStation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Washable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1074,24 +992,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Washable.java">
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Donkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Bicycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Airplane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding>
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Mammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="345">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java">
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="544">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

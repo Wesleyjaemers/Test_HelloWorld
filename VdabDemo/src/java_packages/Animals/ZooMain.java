@@ -64,7 +64,10 @@ public class ZooMain {
         for (int k = 0; k < mammalList2.length; k++) {
             mammalList2[k].sound();
             mammalList2[k].eat();
-            mammalList2[k].doTrick();
+            if(mammalList2[k] instanceof Dog){
+                ((Dog)(mammalList2[k])).doTrick();
+            }
+            
         }
     }
 }

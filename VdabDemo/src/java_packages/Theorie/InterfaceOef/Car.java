@@ -3,7 +3,7 @@ package java_packages.Theorie.InterfaceOef;
 public class Car extends Transport implements Refuelable, Washable {
 
     @Override
-    public void Wash() {
+    public void wash() {
 
     }
 

@@ -7,4 +7,5 @@ public class WashingStation {
         System.out.println("Get some soap");
         w.wash();
     }
+
 }
