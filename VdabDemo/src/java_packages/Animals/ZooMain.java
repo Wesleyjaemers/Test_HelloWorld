@@ -67,7 +67,7 @@ public class ZooMain {
             if(mammalList2[k] instanceof Dog){
                 ((Dog)(mammalList2[k])).doTrick();
             }
-            
+
         }
     }
 }

@@ -24,5 +24,12 @@ public class AppMain {
         if (t instanceof Airplane){
             System.out.println("tis een vliegtuig!");
         }else System.out.println("niks");
+
+        Donkey d = new Donkey("Ludo", "awesome");
+        d.move();
     }
+
+
+
+
 }
