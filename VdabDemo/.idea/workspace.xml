@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Beehive/WeaponType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/ExceptionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/MegacalcMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/TisKapot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Animals/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Animals/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,46 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Soldier.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
+      <file leaf-file-name="ExceptionMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/ExceptionMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#915#916#0" expanded="true" />
-                <element signature="e#1035#1036#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Bee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Donkey.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Donkey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZooMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="334">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,43 +32,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java">
+      <file leaf-file-name="Exception2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeaponType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/WeaponType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mammal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/Mammal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
               <folding>
-                <element signature="e#420#421#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeeMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java">
+      <file leaf-file-name="Exception3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="135">
+              <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecimalFormat.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/text/DecimalFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6623">
+              <caret line="385" column="13" selection-start-line="385" selection-start-column="13" selection-end-line="385" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MegacalcMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/MegacalcMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TisKapot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/TisKapot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding>
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Functions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -110,25 +102,17 @@
       <file leaf-file-name="WeatherEnum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-              <folding>
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeatherMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -157,12 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Flower.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Beehive/MainHive.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Oefeningen/CharCount.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Nurse.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Larva.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Beehive/Queen2.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/NurseMain.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Beehive/Print.java" />
@@ -208,6 +186,12 @@
         <option value="$PROJECT_DIR$/src/java_packages/Animals/Mammal.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherEnum.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherMain.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/ExceptionMain.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/TisKapot.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception2.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Functions.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/MegacalcMain.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception3.java" />
       </list>
     </option>
   </component>
@@ -225,6 +209,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,12 +272,18 @@
               <item name="Theorie" type="462c0819:PsiDirectoryNode" />
               <item name="Enumeration" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_packages" type="462c0819:PsiDirectoryNode" />
+              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
+              <item name="ExceptionDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -316,36 +308,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeatherMain">
-    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.InterfaceOef.AppMain" />
+  <component name="RunManager" selected="Application.Exception2">
+    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.ExceptionDemo.Exception2" />
       <module name="VdabDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_packages.Theorie.InterfaceOef.*" />
+          <option name="PATTERN" value="java_packages.Theorie.ExceptionDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ShapeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Shapes.ShapeMain" />
+    <configuration name="ExceptionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.ExceptionDemo.ExceptionMain" />
       <module name="VdabDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_packages.Shapes.*" />
+          <option name="PATTERN" value="java_packages.Theorie.ExceptionDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WashingStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.InterfaceOef.WashingStation" />
+    <configuration name="MegacalcMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.ExceptionDemo.MegacalcMain" />
       <module name="VdabDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_packages.Theorie.InterfaceOef.*" />
+          <option name="PATTERN" value="java_packages.Theorie.ExceptionDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,18 +407,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ZooMain" />
-      <item itemvalue="Application.ShapeMain" />
-      <item itemvalue="Application.WashingStation" />
-      <item itemvalue="Application.AppMain" />
       <item itemvalue="Application.WeatherMain" />
+      <item itemvalue="Application.ExceptionMain" />
+      <item itemvalue="Application.MegacalcMain" />
+      <item itemvalue="Application.Exception2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exception2" />
+        <item itemvalue="Application.MegacalcMain" />
+        <item itemvalue="Application.ExceptionMain" />
         <item itemvalue="Application.WeatherMain" />
         <item itemvalue="Application.ZooMain" />
-        <item itemvalue="Application.AppMain" />
-        <item itemvalue="Application.WashingStation" />
-        <item itemvalue="Application.ShapeMain" />
       </list>
     </recent_temporary>
   </component>
@@ -581,60 +573,47 @@
       <option name="project" value="LOCAL" />
       <updated>1528804001638</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Oef Enumeration">
+      <created>1528811945761</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1528811945761</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="85" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32721382" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info id="Image Layers" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007143" side_tool="true" weight="0.32937366" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928573" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="right" id="Palette" order="9" />
-      <window_info id="Designer" order="9" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="10" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info id="Favorites" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32937366" />
-      <window_info id="Image Layers" order="11" />
-      <window_info id="Capture Tool" order="12" />
-      <window_info id="UI Designer" order="13" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.39956802" />
-      <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="right" x="0" y="0" width="590" height="1137" id="Documentation" order="12" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" id="Palette&#9;" order="13" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.32768363" />
+      <window_info anchor="right" id="Palette&#9;" order="13" />
+      <window_info id="Image Layers" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="14" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info id="Capture Tool" order="12" />
+      <window_info id="Designer" order="9" />
       <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="13" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39956802" />
+      <window_info id="Favorites" order="10" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="590" height="1137" id="Documentation" order="12" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -656,7 +635,8 @@
     <MESSAGE value="Update Abstract classes + interfaces" />
     <MESSAGE value="Oef Interface Washing/Gas station" />
     <MESSAGE value="Oef Interface Washing/Gas station update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oef Interface Washing/Gas station update" />
+    <MESSAGE value="Oef Enumeration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oef Enumeration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -668,7 +648,7 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -688,43 +668,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/NurseMain.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Queen2.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Oefeningen/ComparePrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/MainHive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/FertilizeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Oefeningen/ArrayOef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -743,16 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-          <folding>
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,10 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -806,10 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -824,10 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -877,16 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -901,14 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -937,12 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,10 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -961,12 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -974,14 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -996,14 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-          <folding>
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1011,16 +882,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="25" column="23" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Animals/ZooMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
+        <state relative-caret-position="1005">
           <caret line="69" selection-start-line="69" selection-end-line="69" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1030,7 +897,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Donkey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="105">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
             <element signature="e#132#133#0" expanded="true" />
@@ -1039,34 +906,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration.java" />
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/AppMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/Bread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/Baker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/Bread.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/Baker.java" />
     <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/WeaponType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1076,8 +925,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="480">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#915#916#0" expanded="true" />
             <element signature="e#1035#1036#0" expanded="true" />
@@ -1095,7 +944,7 @@
     <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/BeeMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
@@ -1111,25 +960,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/text/DecimalFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6623">
+          <caret line="385" column="13" selection-start-line="385" selection-start-column="13" selection-end-line="385" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/TisKapot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           <folding>
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Enumeration/WeatherMain.java">
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/MegacalcMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="373">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/ExceptionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/ExceptionDemo/Exception3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
