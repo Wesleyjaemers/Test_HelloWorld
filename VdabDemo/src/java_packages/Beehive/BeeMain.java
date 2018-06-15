@@ -18,7 +18,7 @@ public class BeeMain {
 
         Worker w = new Worker("Willy", 0, 100);
         Drone d1 = new Drone("Buh",6,1000,100,"Machien");
-        Queen q1 = new Queen("test",40, 20,"Testie");
+        Queen q1 = new Queen("test",40, 20,"Testie",100);
         Soldier s1 = new Soldier();
 
         //Print p = new Print ();

@@ -2,13 +2,14 @@ package java_packages.Beehive;
 
 public class Queen extends Bee {
     String type;
-    private int eggs, mood, danceRes, strength, countWin, countLoss;
+    private int eggs, mood, danceRes, strength, countWin, countLoss, energy;
 
-    public Queen (String name, int m, int s, String t){
+    public Queen (String name, int m, int s, String t, int energy){
         super(name); // roept de 1e constructor aan van Bee
         this.mood = m;
         this.strength = s;
         this.type = t;
+        this.energy = energy;
     }
 
     public void danceOff(Drone d){
@@ -46,6 +47,14 @@ public class Queen extends Bee {
         }
     }
 
+    public void layLarva (){
+        System.out.println("queen lays larva, has "+energy+" left");
+        energy -=10;
+    }
+
+    public int getEnergy() {
+        return energy;
+    }
 
     @Override
     public void contribute() {
@@ -65,5 +74,15 @@ public class Queen extends Bee {
     @Override
     public void pee() {
 
+    }
+
+}
+
+class QueenIsTired extends RuntimeException{
+    public QueenIsTired() {
+    }
+
+    public QueenIsTired(String message) {
+        super(message);
     }
 }

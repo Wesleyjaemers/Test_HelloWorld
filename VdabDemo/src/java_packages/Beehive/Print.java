@@ -17,9 +17,9 @@ public class Print {
         droneList[1] = adonis;
         droneList[2] = josti;
 
-        Queen latifa = new Queen("Latifa", 50, 20, "Diva");
-        Queen cruella = new Queen("Cruella", 30, 10, "Furless");
-        Queen shaniqua = new Queen("Shaniqua", 65, 40, "Don't be playin with me!");
+        Queen latifa = new Queen("Latifa", 50, 20, "Diva",100);
+        Queen cruella = new Queen("Cruella", 30, 10, "Furless",100);
+        Queen shaniqua = new Queen("Shaniqua", 65, 40, "Don't be playin with me!",100);
 
         Queen[] queenList = new Queen[3];
         queenList[0] = latifa;

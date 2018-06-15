@@ -17,9 +17,9 @@ public class FertilizeMain {
         droneList[1]= Adonis;
         droneList[2]= Josti;
 
-        Queen Latifa = new Queen ("Latifa",50, 20,"Diva");
-        Queen Cruella = new Queen ("Cruella", 30,10,"Furless");
-        Queen Shaniqua = new Queen ("Shaniqua",65,35,"Don't be playin with me!");
+        Queen Latifa = new Queen ("Latifa",50, 20,"Diva", 100);
+        Queen Cruella = new Queen ("Cruella", 30,10,"Furless", -100);
+        Queen Shaniqua = new Queen ("Shaniqua",65,35,"Don't be playin with me!", 100);
 
         Queen [] queenList = new Queen [3];
         queenList [0] = Latifa;
@@ -43,7 +43,20 @@ public class FertilizeMain {
         System.out.println("Let the dancing begin!");
         queenList [indexQueen].danceOff(droneList[indexDrone]);
 
+        boolean badEnergy = true;
+        while (badEnergy) try {
+            if (queenList[indexQueen].getEnergy() < 0) {
+                throw new QueenIsTired("Queen is tired");
 
+            }  // custom exception
+            queenList[indexQueen].layLarva();
+            //}catch (QueenIsTired q){
+            // System.out.println("Queen is tired");
+            // badEnergy = false;
+        }catch (QueenIsTired e){
+            badEnergy = false;
+            System.out.println(e.getMessage());
+        }
 
     }
 }
