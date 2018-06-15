@@ -3,10 +3,12 @@ package java_packages.Beehive;
 import java.util.Scanner;
 
 public class Print {
-    Scanner inputDrone = new Scanner(System.in);
-    Scanner inputQueen = new Scanner (System.in);
 
-    public void introPrint() {
+
+    public static void introPrint() {
+
+        Scanner inputDrone = new Scanner(System.in);
+        Scanner inputQueen = new Scanner (System.in);
 
         Drone joske = new Drone("Joske", 5, 500, 100, "Casual");
         Drone adonis = new Drone("Adonis", 8, 300, 100, "Stud");
