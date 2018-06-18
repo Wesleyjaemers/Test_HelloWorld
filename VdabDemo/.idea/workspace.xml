@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c1b32ef-f9f9-4d85-8e02-20e88b9b2f83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/Lambda/LambdaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/Lambda/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_packages/Theorie/Lambda/PersonByFirstNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/FractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/PrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/UnitTestingClasses/FractionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Prime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VdabDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/VdabDemo.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,50 +20,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Lambda/Person.java">
+      <file leaf-file-name="Prime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Prime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#779#780#0" expanded="true" />
-                <element signature="e#840#841#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LambdaMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Lambda/LambdaMain.java">
+      <file leaf-file-name="PrimeTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/PrimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="37" column="101" lean-forward="true" selection-start-line="37" selection-start-column="101" selection-end-line="37" selection-end-column="101" />
+            <state relative-caret-position="300">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PersonByFirstNameComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Lambda/PersonByFirstNameComparator.java">
+      <file leaf-file-name="Fraction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Fraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="390">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FractionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/FractionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Soldier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FractionMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_packages/UnitTestingClasses/FractionMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -72,6 +99,7 @@
       <list>
         <option value="Enum" />
         <option value="yet_unknown" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -90,12 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java_packages/Shapes/ShapeMain.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Shapes/Shape.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Shapes/Circle.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Shapes/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Shapes/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/java_packages/Theorie/Interface/Transport.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Gasstation.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Transport.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Refuelable.java" />
@@ -141,6 +163,12 @@
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/Lamda/PersonByFirstNameComparator.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/Lamda/LambdaMain.java" />
         <option value="$PROJECT_DIR$/src/java_packages/Theorie/Lambda/LambdaMain.java" />
+        <option value="$PROJECT_DIR$/UnitTesting/PrimeTest.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Prime.java" />
+        <option value="$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/PrimeTest.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/UnitTestingClasses/FractionMain.java" />
+        <option value="$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Fraction.java" />
+        <option value="$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/FractionTest.java" />
       </list>
     </option>
   </component>
@@ -156,7 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,6 +195,11 @@
             <path>
               <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,66 +213,43 @@
               <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_packages" type="462c0819:PsiDirectoryNode" />
-              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
+              <item name="Beehive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_packages" type="462c0819:PsiDirectoryNode" />
-              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
-              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitTestingClasses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_packages" type="462c0819:PsiDirectoryNode" />
-              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
-              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitTesting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_packages" type="462c0819:PsiDirectoryNode" />
-              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
-              <item name="Enumeration" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="UnitTestingclasses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_packages" type="462c0819:PsiDirectoryNode" />
-              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
-              <item name="ExceptionDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_packages" type="462c0819:PsiDirectoryNode" />
-              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
-              <item name="InterfaceOef" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VdabDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VdabDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_packages" type="462c0819:PsiDirectoryNode" />
-              <item name="Theorie" type="462c0819:PsiDirectoryNode" />
-              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -259,64 +269,112 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LambdaMain">
-    <configuration name="DateOef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.Annotation.DateOef" />
+  <component name="RunManager" selected="JUnit.FractionTest.factorIsNotNegative">
+    <configuration name="FractionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_packages.UnitTestingClasses.FractionMain" />
       <module name="VdabDemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_packages.Theorie.Annotation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="FertilizeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Beehive.FertilizeMain" />
-      <module name="VdabDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_packages.Beehive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.Lambda.LambdaMain" />
-      <module name="VdabDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_packages.Theorie.Lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.Collections.Lists" />
-      <module name="VdabDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_packages.Theorie.Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="WeatherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_packages.Theorie.Enumeration.WeatherMain" />
-      <module name="VdabDemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_packages.Theorie.Enumeration.*" />
+          <option name="PATTERN" value="java_packages.UnitTestingClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="FractionTest.factorIsNotNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VdabDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_packages.UnitTestingclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="java_packages.UnitTestingclasses" />
+      <option name="MAIN_CLASS_NAME" value="java_packages.UnitTestingclasses.FractionTest" />
+      <option name="METHOD_NAME" value="factorIsNotNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VdabDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_packages.UnitTestingclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="java_packages.UnitTestingclasses" />
+      <option name="MAIN_CLASS_NAME" value="java_packages.UnitTestingclasses.PrimeTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimeTest.oneIsNotAPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VdabDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_packages.UnitTestingclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="java_packages.UnitTestingclasses" />
+      <option name="MAIN_CLASS_NAME" value="java_packages.UnitTestingclasses.PrimeTest" />
+      <option name="METHOD_NAME" value="oneIsNotAPrime" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PrimeTest.primeNumberReturnsFalseIfValueIsPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VdabDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_packages.UnitTestingclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="java_packages.UnitTestingclasses" />
+      <option name="MAIN_CLASS_NAME" value="java_packages.UnitTestingclasses.PrimeTest" />
+      <option name="METHOD_NAME" value="primeNumberReturnsFalseIfValueIsPrime" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -357,19 +415,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.WeatherMain" />
-      <item itemvalue="Application.FertilizeMain" />
-      <item itemvalue="Application.Lists" />
-      <item itemvalue="Application.DateOef" />
-      <item itemvalue="Application.LambdaMain" />
+      <item itemvalue="JUnit.PrimeTest.primeNumberReturnsFalseIfValueIsPrime" />
+      <item itemvalue="JUnit.PrimeTest.oneIsNotAPrime" />
+      <item itemvalue="JUnit.PrimeTest" />
+      <item itemvalue="Application.FractionMain" />
+      <item itemvalue="JUnit.FractionTest.factorIsNotNegative" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaMain" />
-        <item itemvalue="Application.DateOef" />
-        <item itemvalue="Application.Lists" />
-        <item itemvalue="Application.FertilizeMain" />
-        <item itemvalue="Application.WeatherMain" />
+        <item itemvalue="JUnit.FractionTest.factorIsNotNegative" />
+        <item itemvalue="Application.FractionMain" />
+        <item itemvalue="JUnit.PrimeTest" />
+        <item itemvalue="JUnit.PrimeTest.oneIsNotAPrime" />
+        <item itemvalue="JUnit.PrimeTest.primeNumberReturnsFalseIfValueIsPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -552,8 +610,47 @@
       <option name="project" value="LOCAL" />
       <updated>1529069574876</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Lambda">
+      <created>1529310254738</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1529310254738</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PrimeTest_primeNumberReturnsTrueIfValueIsPrime - 2018.06.18 at 12h 32m 16s.xml">
+      <configuration name="PrimeTest.primeNumberReturnsTrueIfValueIsPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest_primeNumberReturnsFalseIfValueIsPrime - 2018.06.18 at 12h 33m 11s.xml">
+      <configuration name="PrimeTest.primeNumberReturnsFalseIfValueIsPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest_primeNumberReturnsFalseIfValueIsPrime - 2018.06.18 at 12h 40m 21s.xml">
+      <configuration name="PrimeTest.primeNumberReturnsFalseIfValueIsPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest_oneIsNotAPrime - 2018.06.18 at 12h 40m 28s.xml">
+      <configuration name="PrimeTest.oneIsNotAPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2018.06.18 at 12h 40m 40s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2018.06.18 at 13h 30m 55s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeTest - 2018.06.18 at 13h 32m 54s.xml">
+      <configuration name="PrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_factorIsNotNegative - 2018.06.18 at 15h 49m 56s.xml">
+      <configuration name="FractionTest.factorIsNotNegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_factorIsNotNegative - 2018.06.18 at 15h 52m 33s.xml">
+      <configuration name="FractionTest.factorIsNotNegative" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FractionTest_factorIsNotNegative - 2018.06.18 at 15h 59m 20s.xml">
+      <configuration name="FractionTest.factorIsNotNegative" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -567,8 +664,8 @@
       <window_info anchor="right" id="Capture Analysis" order="10" />
       <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32937366" />
       <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.32925072" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info id="Capture Tool" order="12" />
       <window_info id="Designer" order="9" />
@@ -577,8 +674,8 @@
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="13" />
       <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info id="Favorites" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.39956802" />
+      <window_info id="Favorites" order="10" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -611,7 +708,8 @@
     <MESSAGE value="Oef exceptions" />
     <MESSAGE value="Oef exceptions + theorie collections" />
     <MESSAGE value="Lists, sets + annotations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lists, sets + annotations" />
+    <MESSAGE value="Lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -643,55 +741,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Refuelable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Cabrio.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/GasStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Washable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/WashingStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Generator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/InterfaceOef/Snowmobile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -755,13 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -956,13 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Lambda/PersonByFirstNameComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -972,31 +1007,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Lambda/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="465">
           <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Lambda/LambdaMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="37" column="101" lean-forward="true" selection-start-line="37" selection-start-column="101" selection-end-line="37" selection-end-column="101" />
+        <state relative-caret-position="210">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#684#685#0" expanded="true" />
@@ -1005,5 +1024,162 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTesting/PrimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Theorie/Lambda/PersonByFirstNameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Prime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/Beehive/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/PrimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/UnitTestingClasses/FractionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_packages/UnitTestingClasses/Fraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTesting/java_packages/UnitTestingclasses/FractionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VdabDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hamcrest-core-1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
